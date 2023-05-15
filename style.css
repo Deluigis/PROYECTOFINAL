@@ -36,7 +36,7 @@ a{
 
 
 nav{
-    background-color: #81b6a6;
+    background-color: #000000;
 }
 nav ul{
     display: flex;
@@ -126,7 +126,7 @@ nav ul{
 
 
 .footer__container{
-    background-color: #81b6a6;
+    background-color: #000000;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
