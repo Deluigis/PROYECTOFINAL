@@ -1,0 +1,18 @@
+///////////////*abstracts*/
+@import "/sass/abstracts/variables" ;
+
+///////////////////* base *//////////
+@import "/sass/base/resets" ;
+@import "/sass/base/base" ;
+
+////////////* layout*/
+@import "/sass/layout/header" ;
+
+/*HEADER*/
+@import "_header.scss" ;
+
+/*RESPONSIVE*/
+@import "/sass/layout/responsive" ;
+
+/*FOOTER*/
+@import "/sass/layout/footer"
